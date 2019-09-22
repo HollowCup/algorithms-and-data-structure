@@ -1,7 +1,7 @@
 package linkedList;
 
 /**
- * Description：
+ * Description：链表实现
  * Author:TengLu
  * Date:2019/9/17
  * Time:19:48
