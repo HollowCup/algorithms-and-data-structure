@@ -1,4 +1,4 @@
-package queue;
+package queen;
 
 /**
  * Description：循环队列
