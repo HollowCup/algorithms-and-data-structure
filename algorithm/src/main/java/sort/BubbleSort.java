@@ -11,7 +11,7 @@ import java.util.Arrays;
 public class BubbleSort {
 
     public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 5, 4};
+        int arr[] = {2, 7, -5, 30, 9};
         System.out.println("排序前");
         System.out.println(Arrays.toString(arr));
 
