@@ -9,7 +9,7 @@ package search;
 public class BinarySearch {
 
     public static void main(String[] args) {
-        int arr[] = {2, 7, -5, 30, 9};
+        int arr[] = {1, 3, 5, 7, 9, 10, 13, 18};
         int index = binarySearch(arr, 0, arr.length - 1, 5);
         if (index == -1) {
             System.out.println("目标值不在序列中");
